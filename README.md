@@ -1,4 +1,4 @@
-#Complexidade de Algoritmos em Aprendizado Federado: uma Análise do FedAvg para Classificação Distribuída de Imagens Médicas
+# Complexidade de Algoritmos em Aprendizado Federado: uma Análise do FedAvg para Classificação Distribuída de Imagens Médicas
 
 > Projeto de pesquisa acadêmica desenvolvido no âmbito da disciplina de Computabilidade e Complexidade de Algoritmos, com foco na análise da complexidade computacional do algoritmo Federated Averaging (FedAvg) em aplicações de Aprendizado Federado para imagens médicas.
 
