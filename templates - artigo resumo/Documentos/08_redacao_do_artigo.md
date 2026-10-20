@@ -6,11 +6,11 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
 
 # Título
 
-`[Título claro e coerente com o tema]`/`[Complexidade computacional e de comunicação do FedAvg em cenários simulados de Aprendizado Federado para classificação de imagens médicas]`
+`[Complexidade computacional e de comunicação do FedAvg em cenários simulados de Aprendizado Federado para classificação de imagens médicas]`
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`/`[Aprendizado Federado]; [FedAvg]; [Complexidade Computacional]; [Custo de Comunicação]; [Imagens Médicas]`
+`[Aprendizado Federado]; [FedAvg]; [Complexidade Computacional]; [Custo de Comunicação]; [Imagens Médicas]`
 
 ## Introdução
 
@@ -22,11 +22,15 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo.
 
 ## Revisão da literatura
 
-### `[Eixo 1]`
+### `[Complexidade computacional e eficiência de comunicação no Aprendizado Federado]`
 
 `[Compare estudos, resultados, métodos e limitações.]`
 
-### `[Eixo 2]`
+### `[Convergência do FedAvg e influência dos parâmetros de treinamento]`
+
+`[Compare estudos, resultados, métodos e limitações.]`
+
+### `[Aplicação do Aprendizado Federado em classificação e análise de imagens médicas]`
 
 `[Compare estudos, resultados, métodos e limitações.]`
 

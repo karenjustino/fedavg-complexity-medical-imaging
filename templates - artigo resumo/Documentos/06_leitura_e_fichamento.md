@@ -343,6 +343,56 @@ Página: `[1 do PDF]`
 
 Página: `[Página: 1-2 (Abstract)]`
 
+## Artigo 8 — Le et al. (2026)
+
+## Identificação do artigo
+
+- Referência completa: `[LE, Thu Thuy et al. Federated learning for medical image analysis: methods, challenges, and future directions. Advanced Engineering Informatics, v. 76, art. 104976, 2026.]`
+- DOI ou URL: `[https://doi.org/10.1016/j.aei.2026.104976]`
+- Base de origem: `[ScienceDirect / Google Scholar]`
+- Leitor responsável: `[Matheus Soares]`
+- Data da leitura: `[13/10/2026]`
+
+## Fichamento
+
+### Problema investigado
+
+`[O estudo investiga os principais desafios que dificultam a aplicação ampla do Aprendizado Federado na análise de imagens médicas. Entre os problemas analisados estão a heterogeneidade dos dados entre instituições, distribuições não-IID, falta de dados rotulados, elevados custos de comunicação durante o treinamento, dificuldades na agregação dos modelos e riscos de privacidade e segurança associados às atualizações compartilhadas.]`
+
+### Objetivo do estudo
+
+`[O objetivo do artigo é apresentar uma revisão abrangente dos métodos, desafios e tendências recentes do Aprendizado Federado aplicado à análise de imagens médicas, considerando trabalhos publicados entre 2020 e 2025. O estudo busca identificar soluções desenvolvidas para os principais problemas da área e apontar direções futuras de pesquisa.]`
+
+### Método utilizado
+
+`[O trabalho realiza uma revisão da literatura sobre Aprendizado Federado aplicado à análise de imagens médicas. Os autores analisam estudos publicados entre 2020 e 2025 em periódicos e conferências relevantes e organizam a literatura em diferentes categorias de desafios, incluindo escassez de dados e rótulos, heterogeneidade e dados não-IID, custos de comunicação e agregação de modelos, além de privacidade e segurança.]`
+
+### Contexto, amostra ou dados
+
+`[O estudo está inserido no contexto da inteligência artificial aplicada à análise de imagens médicas, incluindo diferentes modalidades de imagem e aplicações clínicas. A revisão considera pesquisas em Aprendizado Federado publicadas entre 2020 e 2025 em periódicos e conferências das áreas de imagens médicas, inteligência artificial e aprendizado federado.]`
+
+### Principais resultados
+
+`[A revisão identificou que os principais desafios do Aprendizado Federado em imagens médicas estão relacionados à heterogeneidade dos dados, distribuições não-IID, falta de dados rotulados, custos de comunicação, agregação dos modelos e riscos de privacidade. O estudo também mostra que diferentes estratégias vêm sendo utilizadas para enfrentar essas dificuldades, incluindo aprendizado semissupervisionado e não supervisionado, técnicas para lidar com domain shift, modelos personalizados e arquiteturas avançadas de deep learning.]`
+
+### Limitações apresentadas
+
+`[Por se tratar de uma revisão focada em trabalhos publicados entre 2020 e 2025 e especificamente em análise de imagens médicas, o estudo não representa toda a literatura existente sobre Aprendizado Federado. Além disso, permanecem desafios em aberto relacionados à heterogeneidade dos dados, eficiência de comunicação, privacidade, personalização dos modelos e implantação do Aprendizado Federado em ambientes clínicos reais.]`
+
+### Contribuição para o nosso artigo
+
+`[Este estudo contribui diretamente para a nossa pesquisa ao apresentar uma visão atualizada dos principais desafios do Aprendizado Federado em imagens médicas, incluindo especificamente os custos de comunicação e a agregação dos modelos. A revisão ajuda a contextualizar como fatores como heterogeneidade dos dados, comunicação frequente e arquitetura dos modelos podem afetar a eficiência do treinamento federado, complementando os estudos específicos sobre FedAvg analisados pelo grupo.]`
+
+### Comentário crítico
+
+`[O principal ponto forte do artigo é reunir e organizar pesquisas recentes sobre Aprendizado Federado aplicado à análise de imagens médicas, permitindo identificar de forma clara os principais desafios e tendências da área. O estudo é especialmente útil por relacionar aspectos de comunicação, heterogeneidade, privacidade e técnicas de otimização. Como limitação, por ser uma revisão ampla, não aprofunda exclusivamente a complexidade computacional do FedAvg nem apresenta uma avaliação experimental própria sobre número de clientes, quantidade de rodadas ou tamanho do modelo. Dessa forma, sua contribuição para o nosso trabalho é principalmente contextual e comparativa.]`
+
+### Citação literal opcional
+
+> `["FL requires medical devices or facilities to continuously send local model updates to the central server"]`
+
+Página: `[1 / Introduction]`
+
 
 ## Checklist
 

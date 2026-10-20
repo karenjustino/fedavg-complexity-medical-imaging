@@ -6,12 +6,10 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
 `[De que forma a variação do número de clientes (K), da quantidade de rodadas (R) e do tamanho do modelo impacta a complexidade computacional e os custos de comunicação do algoritmo FedAvg em simulações para classificação de imagens médicas?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
 `[Avaliar, de forma separada, o impacto do número de clientes (K), da quantidade de rodadas (R) e do tamanho do modelo sobre a complexidade computacional e os custos de comunicação do algoritmo FedAvg em simulações para classificação de imagens médicas.]`
 
 ## Objetivos específicos

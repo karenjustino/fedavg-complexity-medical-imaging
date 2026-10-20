@@ -8,7 +8,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 - Grupo: `[Grupo 7]`
 - Integrantes: `[Gabriel Anastácio Pereira, Gabriel Alves Dias Reis, Karen Gabrielle Justino, Marcos Antonio da Silva Souza, Matheus Silva Soares]`
-- Data: `[dd/mm/aaaa]`
+- Data: `[06/10/2026]`
 
 ## Preenchimento
 
