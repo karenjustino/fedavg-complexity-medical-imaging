@@ -15,11 +15,13 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `[Ciência da Computação — Computabilidade e Complexidade de Algoritmos]`
+- Professor ou orientador: `[Profª Drª Andréa Ono Sakai]`
+- Grupo: `[Grupo 7 — CC Noite]`
+- Integrantes: `[Gabriel Anastácio Pereira, Gabriel Alves Dias Reis, Karen Gabrielle Justino, Marcos Antonio da Silva Souza, Matheus Silva Soares]`
+- Data de início: `[18/08/2026]`
+
+
 
 
 

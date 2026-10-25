@@ -9,7 +9,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 - Título do artigo: `[Complexidade computacional e de comunicação do FedAvg em cenários simulados de Aprendizado Federado para classificação de imagens médicas]`
 - Versão revisada: `[número]`
 - Data: `[dd/mm/aaaa]`
-- Responsável pela conferência final: `[Karen Gabrielle Justino, Matheus Silva Soares]`
+- Responsável pela conferência final: `[Gabriel Anastácio Pereira, Gabriel Alves Dias Reis, Karen Gabrielle Justino, Marcos Antonio da Silva Souza, Matheus Silva Soares]`
 
 ## Revisão científica
 
